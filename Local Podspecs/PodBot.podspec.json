@@ -1,0 +1,22 @@
+{
+  "name": "PodBot",
+  "version": "0.1.0",
+  "summary": "A short description of PodBot.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/burakdd/PodBot",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "burakdd": "burak.dede@lcwaikiki.com"
+  },
+  "source": {
+    "git": "https://github.com/burakdd/PodBot.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PodBot/Classes/**/*"
+}

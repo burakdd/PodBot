@@ -1,0 +1,16 @@
+PODS:
+  - PodBot (0.1.0)
+
+DEPENDENCIES:
+  - PodBot (from `../`)
+
+EXTERNAL SOURCES:
+  PodBot:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PodBot: efb17cefcb90f962b896714dd12b4f51f0a738fe
+
+PODFILE CHECKSUM: 1e1f9a7fbfa7c71542da0cdc96fecc2fd240c2b8
+
+COCOAPODS: 1.9.1

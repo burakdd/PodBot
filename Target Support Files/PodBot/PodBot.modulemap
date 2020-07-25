@@ -1,0 +1,6 @@
+framework module PodBot {
+  umbrella header "PodBot-umbrella.h"
+
+  export *
+  module * { export * }
+}
